@@ -11,6 +11,10 @@
 	path = Matomo
 	url = https://git.qiuwen.wiki/qiuwen/Matomo
 
+[submodule "NewSignupPage"]
+	path = NewSignupPage
+	url = https://git.qiuwen.wiki/fork/NewSignupPage
+
 [submodule "PinyinSort"]
 	path = PinyinSort
 	url = https://git.qiuwen.wiki/mirror/MW-PinyinSort
@@ -205,11 +209,6 @@
 [submodule "MultimediaViewer"]
 	path = MultimediaViewer
 	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-MultimediaViewer
-	branch = REL1_38
-
-[submodule "NewSignupPage"]
-	path = NewSignupPage
-	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-NewSignupPage
 	branch = REL1_38
 
 [submodule "NewUserMessage"]

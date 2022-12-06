@@ -5,15 +5,15 @@
 
 [submodule "CommonsMetadata"]
 	path = CommonsMetadata
-	url = https://git.qiuwen.wiki/qiuwen/CommonsMetadata
+	url = https://git.qiuwen.wiki/fork/mediawiki-extensions-CommonsMetadata
 
 [submodule "Matomo"]
 	path = Matomo
-	url = https://git.qiuwen.wiki/qiuwen/Matomo
+	url = https://git.qiuwen.wiki/fork/mediawiki-extensions-Matomo
 
 [submodule "NewSignupPage"]
 	path = NewSignupPage
-	url = https://git.qiuwen.wiki/fork/NewSignupPage
+	url = https://git.qiuwen.wiki/fork/mediawiki-extensions-NewSignupPage
 
 [submodule "PinyinSort"]
 	path = PinyinSort
@@ -21,19 +21,19 @@
 
 [submodule "ReplaceText"]
 	path = ReplaceText
-	url = https://git.qiuwen.wiki/qiuwen/ReplaceText
+	url = https://git.qiuwen.wiki/fork/mediawiki-extensions-ReplaceText
 
 [submodule "RNRSHook"]
 	path = RNRSHook
-	url = https://git.qiuwen.wiki/qiuwen/RNRSHook
+	url = https://git.qiuwen.wiki/qiuwen/mediawiki-extensions-RNRSHook
 
 [submodule "SimpleMathJax"]
 	path = SimpleMathJax
-	url = https://git.qiuwen.wiki/qiuwen/SimpleMathJax
+	url = https://git.qiuwen.wiki/fork/mediawiki-extensions-SimpleMathJax
 
 [submodule "UploadWizard"]
 	path = UploadWizard
-	url = https://git.qiuwen.wiki/qiuwen/UploadWizard
+	url = https://git.qiuwen.wiki/fork/mediawiki-extensions-UploadWizard
 
 # Code hosted on MediaWiki.org
 [submodule "AbuseFilter"]

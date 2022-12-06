@@ -1,0 +1,26 @@
+.vscode/
+dist/
+scripts/credentials.json
+*.gz
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Node
+node_modules/
+npm-debug.log*
+
+# MsUpload
+MsUpload/

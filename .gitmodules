@@ -1,0 +1,338 @@
+# Self-hosted code, forked code, and code not hosted on MediaWiki.org
+[submodule "AWS"]
+	path = AWS
+	url = https://git.qiuwen.wiki/mirror/mediawiki-aws-s3
+
+[submodule "CommonsMetadata"]
+	path = CommonsMetadata
+	url = https://git.qiuwen.wiki/qiuwen/CommonsMetadata
+
+[submodule "Matomo"]
+	path = Matomo
+	url = https://git.qiuwen.wiki/qiuwen/Matomo
+
+[submodule "PinyinSort"]
+	path = PinyinSort
+	url = https://git.qiuwen.wiki/mirror/MW-PinyinSort
+
+[submodule "ReplaceText"]
+	path = ReplaceText
+	url = https://git.qiuwen.wiki/qiuwen/ReplaceText
+
+[submodule "RNRSHook"]
+	path = RNRSHook
+	url = https://git.qiuwen.wiki/qiuwen/RNRSHook
+
+[submodule "SimpleMathJax"]
+	path = SimpleMathJax
+	url = https://git.qiuwen.wiki/qiuwen/SimpleMathJax
+
+[submodule "UploadWizard"]
+	path = UploadWizard
+	url = https://git.qiuwen.wiki/qiuwen/UploadWizard
+
+# Code hosted on MediaWiki.org
+[submodule "AbuseFilter"]
+	path = AbuseFilter
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-AbuseFilter
+	branch = REL1_38
+
+[submodule "AdvancedSearch"]
+	path = AdvancedSearch
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-AdvancedSearch
+	branch = REL1_38
+
+[submodule "AntiSpoof"]
+	path = AntiSpoof
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-AntiSpoof
+	branch = REL1_38
+
+[submodule "BetaFeatures"]
+	path = BetaFeatures
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-BetaFeatures
+	branch = REL1_38
+
+[submodule "CategoryTree"]
+	path = CategoryTree
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-CategoryTree
+	branch = REL1_38
+
+[submodule "CheckUser"]
+	path = CheckUser
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-CheckUser
+	branch = REL1_38
+
+[submodule "CirrusSearch"]
+	path = CirrusSearch
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-CirrusSearch
+	branch = REL1_38
+
+[submodule "Cite"]
+	path = Cite
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Cite
+	branch = REL1_38
+
+[submodule "CiteThisPage"]
+	path = CiteThisPage
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-CiteThisPage
+	branch = REL1_38
+
+[submodule "Citoid"]
+	path = Citoid
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Citoid
+	branch = REL1_38
+
+[submodule "cldr"]
+	path = cldr
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-cldr
+	branch = REL1_38
+
+[submodule "CodeEditor"]
+	path = CodeEditor
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-CodeEditor
+	branch = REL1_38
+
+[submodule "CodeMirror"]
+	path = CodeMirror
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-CodeMirror
+	branch = REL1_38
+
+[submodule "CollapsibleVector"]
+	path = CollapsibleVector
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-CollapsibleVector
+	branch = REL1_38
+
+[submodule "ConfirmEdit"]
+	path = ConfirmEdit
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-ConfirmEdit
+	branch = REL1_38
+
+[submodule "CreateUserPage"]
+	path = CreateUserPage
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-CreateUserPage
+	branch = REL1_38
+
+[submodule "Disambiguator"]
+	path = Disambiguator
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Disambiguator
+	branch = REL1_38
+
+[submodule "DiscussionTools"]
+	path = DiscussionTools
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-DiscussionTools
+	branch = REL1_38
+
+[submodule "Echo"]
+	path = Echo
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Echo
+	branch = REL1_38
+
+[submodule "Elastica"]
+	path = Elastica
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Elastica
+	branch = REL1_38
+
+[submodule "FileImporter"]
+	path = FileImporter
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-FileImporter
+	branch = REL1_38
+
+[submodule "Gadgets"]
+	path = Gadgets
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Gadgets
+	branch = REL1_38
+
+[submodule "Graph"]
+	path = Graph
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Graph
+	branch = REL1_38
+
+[submodule "ImageMap"]
+	path = ImageMap
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-ImageMap
+	branch = REL1_38
+
+[submodule "InputBox"]
+	path = InputBox
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-InputBox
+	branch = REL1_38
+
+[submodule "Interwiki"]
+	path = Interwiki
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Interwiki
+	branch = REL1_38
+
+[submodule "JsonConfig"]
+	path = JsonConfig
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-JsonConfig
+	branch = REL1_38
+
+[submodule "LabeledSectionTransclusion"]
+	path = LabeledSectionTransclusion
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-LabeledSectionTransclusion
+	branch = REL1_38
+
+[submodule "Linter"]
+	path = Linter
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Linter
+	branch = REL1_38
+
+[submodule "LocalisationUpdate"]
+	path = LocalisationUpdate
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-LocalisationUpdate
+	branch = REL1_38
+
+[submodule "Lockdown"]
+	path = Lockdown
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Lockdown
+	branch = REL1_38
+
+[submodule "LoginNotify"]
+	path = LoginNotify
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-LoginNotify
+	branch = REL1_38
+
+[submodule "MassEditRegex"]
+	path = MassEditRegex
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-MassEditRegex
+	branch = REL1_38
+
+[submodule "MassMessage"]
+	path = MassMessage
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-MassMessage
+	branch = REL1_38
+
+[submodule "MultimediaViewer"]
+	path = MultimediaViewer
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-MultimediaViewer
+	branch = REL1_38
+
+[submodule "NewSignupPage"]
+	path = NewSignupPage
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-NewSignupPage
+	branch = REL1_38
+
+[submodule "NewUserMessage"]
+	path = NewUserMessage
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-NewUserMessage
+	branch = REL1_38
+
+[submodule "Nuke"]
+	path = Nuke
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Nuke
+	branch = REL1_38
+
+[submodule "OATHAuth"]
+	path = OATHAuth
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-OATHAuth
+	branch = REL1_38
+
+[submodule "OrphanedTalkPages"]
+	path = OrphanedTalkPages
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-OrphanedTalkPages
+	branch = REL1_38
+
+[submodule "PageImages"]
+	path = PageImages
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-PageImages
+	branch = REL1_38
+
+[submodule "ParserFunctions"]
+	path = ParserFunctions
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-ParserFunctions
+	branch = REL1_38
+
+[submodule "PdfHandler"]
+	path = PdfHandler
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-PdfHandler
+	branch = REL1_38
+
+[submodule "Poem"]
+	path = Poem
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Poem
+	branch = REL1_38
+
+[submodule "Popups"]
+	path = Popups
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Popups
+	branch = REL1_38
+
+[submodule "Renameuser"]
+	path = Renameuser
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Renameuser
+	branch = REL1_38
+
+[submodule "SandboxLink"]
+	path = SandboxLink
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-SandboxLink
+	branch = REL1_38
+
+[submodule "Scribunto"]
+	path = Scribunto
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Scribunto
+	branch = REL1_38
+
+[submodule "SpamBlacklist"]
+	path = SpamBlacklist
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-SpamBlacklist
+	branch = REL1_38
+
+[submodule "SyntaxHighlight_GeSHi"]
+	path = SyntaxHighlight_GeSHi
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-SyntaxHighlight_GeSHi
+	branch = REL1_38
+
+[submodule "TemplateData"]
+	path = TemplateData
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-TemplateData
+	branch = REL1_38
+
+[submodule "TemplateSandbox"]
+	path = TemplateSandbox
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-TemplateSandbox
+	branch = REL1_38
+
+[submodule "TemplateStyles"]
+	path = TemplateStyles
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-TemplateStyles
+	branch = REL1_38
+
+[submodule "TextExtracts"]
+	path = TextExtracts
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-TextExtracts
+	branch = REL1_38
+
+[submodule "TimedMediaHandler"]
+	path = TimedMediaHandler
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-TimedMediaHandler
+	branch = REL1_38
+
+[submodule "timeline"]
+	path = timeline
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-timeline
+	branch = REL1_38
+
+[submodule "TitleBlacklist"]
+	path = TitleBlacklist
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-TitleBlacklist
+	branch = REL1_38
+
+[submodule "UserMerge"]
+	path = UserMerge
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-UserMerge
+	branch = REL1_38
+
+[submodule "VisualEditor"]
+	path = VisualEditor
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-VisualEditor
+	branch = REL1_38
+
+[submodule "WikiEditor"]
+	path = WikiEditor
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-WikiEditor
+	branch = REL1_38
+
+[submodule "wikihiero"]
+	path = wikihiero
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-wikihiero
+	branch = REL1_38

@@ -206,6 +206,11 @@
 	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-MassMessage
 	branch = REL1_38
 
+[submodule "MsUpload"]
+	path = MsUpload
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-MsUpload
+	branch = REL1_38
+
 [submodule "MultimediaViewer"]
 	path = MultimediaViewer
 	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-MultimediaViewer

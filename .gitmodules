@@ -1,7 +1,7 @@
 # Self-hosted code, forked code, and code not hosted on MediaWiki.org
 [submodule "AWS"]
 	path = AWS
-	url = https://git.qiuwen.wiki/mirror/mediawiki-aws-s3
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-AWS
 
 [submodule "CommonsMetadata"]
 	path = CommonsMetadata
@@ -17,7 +17,7 @@
 
 [submodule "PinyinSort"]
 	path = PinyinSort
-	url = https://git.qiuwen.wiki/mirror/MW-PinyinSort
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-PinyinSort
 
 [submodule "ReplaceText"]
 	path = ReplaceText

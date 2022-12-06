@@ -21,6 +21,3 @@ Icon
 # Node
 node_modules/
 npm-debug.log*
-
-# MsUpload
-MsUpload/

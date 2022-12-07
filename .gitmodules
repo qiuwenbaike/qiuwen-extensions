@@ -226,6 +226,11 @@
 	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Nuke
 	branch = REL1_38
 
+[submodule "OAuth"]
+	path = OAuth
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-OAuth
+	branch = REL1_38
+
 [submodule "OATHAuth"]
 	path = OATHAuth
 	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-OATHAuth

@@ -176,6 +176,31 @@
 	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-LabeledSectionTransclusion
 	branch = REL1_39
 
+[submodule "LDAPAuthentication2"]
+	path = LDAPAuthentication2
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPAuthentication2
+	branch = REL1_39
+
+[submodule "LDAPAuthorization"]
+	path = LDAPAuthorization
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPAuthorization
+	branch = REL1_39
+
+[submodule "LDAPGroups"]
+	path = LDAPGroups
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPGroups
+	branch = REL1_39
+
+[submodule "LDAPProvider"]
+	path = LDAPProvider
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPProvider
+	branch = REL1_39
+
+[submodule "LDAPUserInfo"]
+	path = LDAPUserInfo
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPUserInfo
+	branch = REL1_39
+
 [submodule "Linter"]
 	path = Linter
 	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-Linter
@@ -254,6 +279,12 @@
 [submodule "PdfHandler"]
 	path = PdfHandler
 	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-PdfHandler
+	branch = REL1_39
+
+[submodule "PluggableAuth"]
+	path = PluggableAuth
+	update = none
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-PluggableAuth
 	branch = REL1_39
 
 [submodule "Poem"]
@@ -344,28 +375,4 @@
 [submodule "wikihiero"]
 	path = wikihiero
 	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-wikihiero
-	branch = REL1_39
-[submodule "PluggableAuth"]
-	path = PluggableAuth
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-PluggableAuth
-	branch = REL1_39
-[submodule "LDAPAuthentication2"]
-	path = LDAPAuthentication2
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPAuthentication2
-	branch = REL1_39
-[submodule "LDAPAuthorization"]
-	path = LDAPAuthorization
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPAuthorization
-	branch = REL1_39
-[submodule "LDAPGroups"]
-	path = LDAPGroups
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPGroups
-	branch = REL1_39
-[submodule "LDAPProvider"]
-	path = LDAPProvider
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPProvider
-	branch = REL1_39
-[submodule "LDAPUserInfo"]
-	path = LDAPUserInfo
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPUserInfo
 	branch = REL1_39

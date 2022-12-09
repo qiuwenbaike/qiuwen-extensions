@@ -17,7 +17,11 @@
 
 [submodule "PinyinSort"]
 	path = PinyinSort
-	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-PinyinSort
+	url = https://git.qiuwen.wiki/,irror/mediawiki-extensions-PinyinSort
+
+[submodule "PluggableAuth"]
+	path = PluggableAuth
+	url = https://git.qiuwen.wiki/fork/mediawiki-extensions-PluggableAuth
 
 [submodule "ReplaceText"]
 	path = ReplaceText
@@ -178,27 +182,27 @@
 
 [submodule "LDAPAuthentication2"]
 	path = LDAPAuthentication2
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPAuthentication2
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-LDAPAuthentication2
 	branch = REL1_39
 
 [submodule "LDAPAuthorization"]
 	path = LDAPAuthorization
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPAuthorization
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-LDAPAuthorization
 	branch = REL1_39
 
 [submodule "LDAPGroups"]
 	path = LDAPGroups
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPGroups
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-LDAPGroups
 	branch = REL1_39
 
 [submodule "LDAPProvider"]
 	path = LDAPProvider
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPProvider
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-LDAPProvider
 	branch = REL1_39
 
 [submodule "LDAPUserInfo"]
 	path = LDAPUserInfo
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-LDAPUserInfo
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-LDAPUserInfo
 	branch = REL1_39
 
 [submodule "Linter"]
@@ -279,12 +283,6 @@
 [submodule "PdfHandler"]
 	path = PdfHandler
 	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-PdfHandler
-	branch = REL1_39
-
-[submodule "PluggableAuth"]
-	path = PluggableAuth
-	update = none
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-PluggableAuth
 	branch = REL1_39
 
 [submodule "Poem"]

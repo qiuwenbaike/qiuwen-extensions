@@ -46,7 +46,7 @@
 
 [submodule "WikiEditor"]
 	path = WikiEditor
-	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-WikiEditor
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-WikiEditor
 	branch = REL1_39
 
 # Code hosted on MediaWiki.org

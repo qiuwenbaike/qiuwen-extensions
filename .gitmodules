@@ -21,7 +21,7 @@
 
 [submodule "PluggableAuth"]
 	path = PluggableAuth
-	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-PluggableAuth
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-PluggableAuth
 
 [submodule "ReplaceText"]
 	path = ReplaceText

@@ -310,6 +310,11 @@
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-Renameuser
 	branch = REL1_39
 
+[submodule "RelatedArticles"]
+	path = RelatedArticles
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-RelatedArticles
+	branch = REL1_39
+
 [submodule "SandboxLink"]
 	path = SandboxLink
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-SandboxLink

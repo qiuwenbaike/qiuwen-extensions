@@ -379,3 +379,7 @@
 	path = wikihiero
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-wikihiero
 	branch = REL1_39
+[submodule "PagedTiffHandler"]
+	path = PagedTiffHandler
+	url = https://git.qiuwen.wiki/WaitSpring/mediawiki-extensions-PagedTiffHandler
+	branch = REL1_39

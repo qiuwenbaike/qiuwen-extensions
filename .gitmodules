@@ -287,7 +287,7 @@
 
 [submodule "PagedTiffHandler"]
 	path = PagedTiffHandler
-	url = https://git.qiuwen.wiki/WaitSpring/mediawiki-extensions-PagedTiffHandler
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-PagedTiffHandler
 	branch = REL1_39
 
 [submodule "ParserFunctions"]

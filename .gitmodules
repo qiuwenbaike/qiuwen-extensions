@@ -384,3 +384,6 @@
 	path = wikihiero
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-wikihiero
 	branch = REL1_39
+[submodule "DarkMode"]
+	path = DarkMode
+	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-DarkMode

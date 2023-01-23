@@ -1,4 +1,4 @@
-export COMPOSER_ALLOW_SUPERUSER = 1;
+export COMPOSER_ALLOW_SUPERUSER=1;
 cd AbuseFilter; composer update; cd ..; sleep 1;
 cd AdvancedSearch; composer update; cd ..; sleep 1;
 cd AntiSpoof; composer update; cd ..; sleep 1;

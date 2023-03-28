@@ -48,6 +48,7 @@
 [submodule "ReplaceText"]
 	path = ReplaceText
 	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-ReplaceText
+	branch = master
 
 # Code hosted on MediaWiki.org
 [submodule "AbuseFilter"]

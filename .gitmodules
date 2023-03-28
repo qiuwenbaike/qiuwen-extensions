@@ -19,6 +19,11 @@
 	path = PinyinSort
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-PinyinSort
 
+[submodule "ReplaceText"]
+	path = ReplaceText
+	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-ReplaceText
+	branch = master
+
 [submodule "PluggableAuth"]
 	path = PluggableAuth
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-PluggableAuth
@@ -44,11 +49,6 @@
 	path = WikiEditor
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-WikiEditor
 	branch = REL1_39
-
-[submodule "ReplaceText"]
-	path = ReplaceText
-	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-ReplaceText
-	branch = master
 
 # Code hosted on MediaWiki.org
 [submodule "AbuseFilter"]

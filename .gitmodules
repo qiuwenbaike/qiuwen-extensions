@@ -45,6 +45,10 @@
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-WikiEditor
 	branch = REL1_39
 
+[submodule "ReplaceText"]
+	path = ReplaceText
+	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-ReplaceText
+
 # Code hosted on MediaWiki.org
 [submodule "AbuseFilter"]
 	path = AbuseFilter

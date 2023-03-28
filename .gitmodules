@@ -50,12 +50,12 @@
 	branch = REL1_39
 
 [submodule "RevisionSlider"]
-	path = WikiEditor
+	path = RevisionSlider
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-RevisionSlider
 	branch = REL1_39
 
 [submodule "TwoColConflict"]
-	path = WikiEditor
+	path = TwoColConflict
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-TwoColConflict
 	branch = REL1_39
 

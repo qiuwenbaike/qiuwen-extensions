@@ -245,6 +245,11 @@
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-MassMessage
 	branch = REL1_39
 
+[submodule "MediaSearch"]
+	path = MediaSearch
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-MediaSearch
+	branch = REL1_39
+
 [submodule "MsUpload"]
 	path = MsUpload
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-MsUpload
@@ -328,6 +333,11 @@
 [submodule "Scribunto"]
 	path = Scribunto
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-Scribunto
+	branch = REL1_39
+
+[submodule "SearchVue"]
+	path = SearchVue
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-SearchVue
 	branch = REL1_39
 
 [submodule "SpamBlacklist"]

@@ -16,6 +16,7 @@ cd CodeMirror; composer update; cd ..; sleep 1;
 cd CollapsibleVector; composer update; cd ..; sleep 1;
 cd CommonsMetadata; composer update; cd ..; sleep 1;
 cd ConfirmEdit; composer update; cd ..; sleep 1;
+cd ContactPage; composer update; cd ..; sleep 1;
 cd CreateUserPage; composer update; cd ..; sleep 1;
 cd DarkMode; composer update; cd ..; sleep 1;
 cd Disambiguator; composer update; cd ..; sleep 1;

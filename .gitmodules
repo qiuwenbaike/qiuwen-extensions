@@ -408,3 +408,7 @@
 	path = TwoColConflict
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-TwoColConflict
 	branch = REL1_39
+[submodule "ContactPage"]
+	path = ContactPage
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-ContactPage
+	branch = REL1_39

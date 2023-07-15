@@ -419,4 +419,4 @@
 [submodule "CollapsibleSidebar"]
 	path = CollapsibleSidebar
 	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-CollapsibleSidebar
-	branch = REL1_39
+	branch = master

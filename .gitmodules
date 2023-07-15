@@ -412,3 +412,11 @@
 	path = ContactPage
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-ContactPage
 	branch = REL1_39
+[submodule "ArticleMetaDescription"]
+	path = ArticleMetaDescription
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-ArticleMetaDescription
+	branch = REL1_39
+[submodule "CollapsibleSidebar"]
+	path = CollapsibleSidebar
+	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-CollapsibleSidebar
+	branch = REL1_39

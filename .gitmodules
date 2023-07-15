@@ -420,3 +420,6 @@
 	path = CollapsibleSidebar
 	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-CollapsibleSidebar
 	branch = master
+[submodule "GoogleRichCards"]
+	path = GoogleRichCards
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-GoogleRichCards

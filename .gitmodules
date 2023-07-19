@@ -423,3 +423,6 @@
 [submodule "GoogleRichCards"]
 	path = GoogleRichCards
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-GoogleRichCards
+[submodule "TemplateStylesExtender"]
+	path = TemplateStylesExtender
+	url = https://git.qiuwen.wiki/YSLIB/mediawiki-extensions-TemplateStylesExtender

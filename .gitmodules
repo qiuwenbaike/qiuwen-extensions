@@ -426,3 +426,11 @@
 [submodule "TemplateStylesExtender"]
 	path = TemplateStylesExtender
 	url = https://git.qiuwen.wiki/YSLIB/mediawiki-extensions-TemplateStylesExtender
+[submodule "Thanks"]
+	path = Thanks
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-Thanks
+	branch = REL1_39
+[submodule "GuidedTour"]
+	path = GuidedTour
+	url = https://git.qiuwen.wiki/WaitSpring/mediawiki-extensions-GuidedTour
+	branch = REL1_39

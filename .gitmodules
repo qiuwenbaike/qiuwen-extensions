@@ -437,3 +437,7 @@
 [submodule "AutoSitemap"]
 	path = AutoSitemap
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-AutoSitemap
+[submodule "Math"]
+	path = Math
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-Math
+	branch = REL1_39

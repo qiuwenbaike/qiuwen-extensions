@@ -434,3 +434,6 @@
 	path = GuidedTour
 	url = https://git.qiuwen.wiki/WaitSpring/mediawiki-extensions-GuidedTour
 	branch = REL1_39
+[submodule "AutoSitemap"]
+	path = AutoSitemap
+	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-AutoSitemap

@@ -447,7 +447,7 @@
 	branch = REL1_39
 [submodule "UrlShortener"]
 	path = UrlShortener
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-UrlShortener
+	url = https://git.qiuwen.wiki/mirror/mediawiki-extensions-UrlShortener
 	branch = REL1_39
 [submodule "TemplateWizard"]
 	path = TemplateWizard

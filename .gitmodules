@@ -102,8 +102,8 @@
 
 [submodule "cldr"]
 	path = cldr
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-cldr
-	branch = REL1_39
+	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-cldr
+	branch = master
 
 [submodule "CodeEditor"]
 	path = CodeEditor

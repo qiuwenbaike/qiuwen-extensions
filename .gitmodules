@@ -449,3 +449,7 @@
 	path = mediawiki-extensions-UrlShortener
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-UrlShortener
 	branch = REL1_39
+[submodule "TemplateWizard"]
+	path = TemplateWizard
+	url = https://git.qiuwen.wiki/WaitSpring/mediawiki-extensions-TemplateWizard
+	branch = REL1_39

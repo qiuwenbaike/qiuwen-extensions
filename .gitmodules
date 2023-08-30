@@ -27,10 +27,6 @@
 	path = RNRSHook
 	url = https://git.qiuwen.wiki/Qiuwen/mediawiki-extensions-RNRSHook
 
-[submodule "SimpleMathJax"]
-	path = SimpleMathJax
-	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-SimpleMathJax
-
 [submodule "UploadWizard"]
 	path = UploadWizard
 	url = https://git.qiuwen.wiki/Fork/mediawiki-extensions-UploadWizard
@@ -333,11 +329,6 @@
 [submodule "Scribunto"]
 	path = Scribunto
 	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-Scribunto
-	branch = REL1_39
-
-[submodule "SearchVue"]
-	path = SearchVue
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-SearchVue
 	branch = REL1_39
 
 [submodule "SpamBlacklist"]

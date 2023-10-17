@@ -31,11 +31,6 @@
 	path = UploadWizard
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-UploadWizard
 
-[submodule "VisualEditor"]
-	path = VisualEditor
-	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-VisualEditor
-	branch = REL1_39
-
 [submodule "WikiEditor"]
 	path = WikiEditor
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-WikiEditor

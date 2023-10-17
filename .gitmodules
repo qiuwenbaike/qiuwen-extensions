@@ -442,3 +442,7 @@
 [submodule "MatomoNew"]
 	path = MatomoNew
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-MatomoNew
+[submodule "VisualEditor"]
+	path = VisualEditor
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-VisualEditor
+	branch = REL1_39

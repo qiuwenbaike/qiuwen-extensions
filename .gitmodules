@@ -425,7 +425,7 @@
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-AutoSitemap
 [submodule "Math"]
 	path = Math
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Math
+	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-Math
 	branch = REL1_39
 [submodule "ShortUrl"]
 	path = ShortUrl

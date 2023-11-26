@@ -420,9 +420,6 @@
 	path = GuidedTour
 	url = https://git.qiuwen.net.cn/WaitSpring/mediawiki-extensions-GuidedTour
 	branch = REL1_39
-[submodule "AutoSitemap"]
-	path = AutoSitemap
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-AutoSitemap
 [submodule "Math"]
 	path = Math
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-Math

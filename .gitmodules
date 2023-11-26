@@ -406,9 +406,6 @@
 	path = CollapsibleSidebar
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-CollapsibleSidebar
 	branch = master
-[submodule "GoogleRichCards"]
-	path = GoogleRichCards
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-GoogleRichCards
 [submodule "TemplateStylesExtender"]
 	path = TemplateStylesExtender
 	url = https://git.qiuwen.net.cn/YSLIB/mediawiki-extensions-TemplateStylesExtender

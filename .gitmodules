@@ -444,3 +444,6 @@
 	path = GrowthExperiments
 	url = https://git.qiuwen.net.cn/YSARXIV/mediawiki-extensions-GrowthExperiments
 	branch = REL1_39
+[submodule "IsCompatible"]
+	path = IsCompatible
+	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-IsCompatible

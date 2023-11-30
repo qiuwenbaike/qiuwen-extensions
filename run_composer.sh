@@ -96,4 +96,4 @@ cd Graph; composer update; cd ..; sleep 1;
 cd Linter; composer update; cd ..; sleep 1;
 cd OATHAuth; composer update; cd ..; sleep 1;
 cd RevisionSlider; composer update; cd ..; sleep 1;
-cd TextExtracts; composer update; cd ..; sleep 1;·
+cd TextExtracts; composer update; cd ..; sleep 1;

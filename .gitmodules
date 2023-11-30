@@ -447,3 +447,7 @@
 [submodule "IsCompatible"]
 	path = IsCompatible
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-IsCompatible
+[submodule "ApprovedRevs"]
+	path = ApprovedRevs
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ApprovedRevs
+	branch = REL1_39

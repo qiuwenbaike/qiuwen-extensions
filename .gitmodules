@@ -451,7 +451,6 @@
 	path = ApprovedRevs
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ApprovedRevs
 	branch = REL1_39
-[submodule "WikimediaMessages"]
-	path = WikimediaMessages
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-WikimediaMessages
-	branch = REL1_39
+[submodule "QiuwenMessages"]
+	path = QiuwenMessages
+	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-QiuwenMessages

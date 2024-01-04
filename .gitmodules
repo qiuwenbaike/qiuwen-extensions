@@ -449,7 +449,7 @@
 [submodule "QiuwenMessages"]
 	path = QiuwenMessages
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-QiuwenMessages
-[submodule "mediawiki-extensions-WikiEditor"]
-	path = mediawiki-extensions-WikiEditor
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-WikiEditor
+[submodule "Gadgets"]
+	path = Gadgets
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Gadgets
 	branch = REL1_40

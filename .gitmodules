@@ -451,5 +451,5 @@
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-QiuwenMessages
 [submodule "Gadgets"]
 	path = Gadgets
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Gadgets
+	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-Gadgets
 	branch = REL1_40

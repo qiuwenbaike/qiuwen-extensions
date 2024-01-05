@@ -401,9 +401,6 @@
 	path = CollapsibleSidebar
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-CollapsibleSidebar
 	branch = master
-[submodule "TemplateStylesExtender"]
-	path = TemplateStylesExtender
-	url = https://git.qiuwen.net.cn/YSLIB/mediawiki-extensions-TemplateStylesExtender
 [submodule "Thanks"]
 	path = Thanks
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Thanks

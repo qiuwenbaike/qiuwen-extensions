@@ -450,3 +450,6 @@
 	path = Gadgets
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-Gadgets
 	branch = REL1_40
+[submodule "TemplateStylesExtender"]
+	path = TemplateStylesExtender
+	url = https://git.qiuwen.net.cn/YSARXIV/mediawiki-extensions-TemplateStylesExtender

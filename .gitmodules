@@ -454,3 +454,11 @@
 [submodule "TemplateStylesExtender"]
 	path = TemplateStylesExtender
 	url = https://git.qiuwen.net.cn/YSARXIV/mediawiki-extensions-TemplateStylesExtender
+[submodule "GlobalUserrights"]
+	path = GlobalUserrights
+	url = https://git.qiuwen.net.cn/mirror/mediawiki-extensions-GlobalUserrights
+	branch = REL1_41
+[submodule "GlobalBlocking"]
+	path = GlobalBlocking
+	url = https://git.qiuwen.net.cn/mirror/mediawiki-extensions-GlobalBlocking
+	branch = REL1_41

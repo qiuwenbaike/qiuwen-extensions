@@ -462,3 +462,7 @@
 	path = GlobalBlocking
 	url = https://git.qiuwen.net.cn/mirror/mediawiki-extensions-GlobalBlocking
 	branch = REL1_41
+[submodule "GlobalPreferences"]
+	path = GlobalPreferences
+	url = https://git.qiuwen.net.cn/mirror/mediawiki-extensions-GlobalPreferences
+	branch = REL1_41

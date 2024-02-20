@@ -466,9 +466,6 @@
 	path = GlobalPreferences
 	url = https://git.qiuwen.net.cn/mirror/mediawiki-extensions-GlobalPreferences
 	branch = REL1_41
-[submodule "REL1_41"]
-	path = REL1_41
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ArticleCreationWorkflow
 [submodule "ArticleCreationWorkflow"]
 	path = ArticleCreationWorkflow
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ArticleCreationWorkflow

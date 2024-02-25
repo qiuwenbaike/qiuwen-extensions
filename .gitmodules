@@ -470,3 +470,7 @@
 	path = ArticleCreationWorkflow
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ArticleCreationWorkflow
 	branch = REL1_41
+[submodule "Score"]
+	path = Score
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Score
+	branch = REL1_41

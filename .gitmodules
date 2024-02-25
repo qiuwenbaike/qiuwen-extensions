@@ -474,3 +474,7 @@
 	path = Score
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Score
 	branch = REL1_41
+[submodule "CentralAuth"]
+	path = CentralAuth
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-CentralAuth
+	branch = REL1_41

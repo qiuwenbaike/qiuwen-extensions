@@ -482,3 +482,7 @@
 	path = 3D
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-3D
 	branch = REL1_41
+[submodule "SecureLinkFixer"]
+	path = SecureLinkFixer
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-SecureLinkFixer
+	branch = REL1_41

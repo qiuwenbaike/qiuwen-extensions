@@ -518,3 +518,7 @@
 	path = MediaUploader
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-MediaUploader
 	branch = REL1_42
+[submodule "UploadsLink"]
+	path = UploadsLink
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-UploadsLink
+	branch = REL1_42

@@ -6,8 +6,8 @@
 [submodule "CommonsMetadata"]
 	path = CommonsMetadata
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-CommonsMetadata
-
 	branch = REL1_41
+
 [submodule "Matomo"]
 	path = Matomo
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-Matomo
@@ -32,14 +32,13 @@
 	path = UploadWizard
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-UploadWizard
 
-[submodule "WikiEditor"]
-	path = WikiEditor
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-WikiEditor
-	branch = REL1_41
-
 [submodule "ReplaceText"]
 	path = ReplaceText
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-ReplaceText
+
+[submodule "cldr"]
+	path = cldr
+	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-cldr
 
 # Code hosted on MediaWiki.org
 [submodule "AbuseFilter"]
@@ -91,11 +90,6 @@
 	path = Citoid
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Citoid
 	branch = REL1_41
-
-[submodule "cldr"]
-	path = cldr
-	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-cldr
-	branch = master
 
 [submodule "CodeEditor"]
 	path = CodeEditor
@@ -394,99 +388,129 @@
 	path = ContactPage
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ContactPage
 	branch = REL1_41
+
 [submodule "ArticleMetaDescription"]
 	path = ArticleMetaDescription
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ArticleMetaDescription
 	branch = REL1_41
+
 [submodule "CollapsibleSidebar"]
 	path = CollapsibleSidebar
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-CollapsibleSidebar
 	branch = master
+
 [submodule "Thanks"]
 	path = Thanks
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Thanks
 	branch = REL1_41
+
 [submodule "GuidedTour"]
 	path = GuidedTour
-	url = https://git.qiuwen.net.cn/WaitSpring/mediawiki-extensions-GuidedTour
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-GuidedTour
 	branch = REL1_41
+
 [submodule "Math"]
 	path = Math
-	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-Math
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Math
 	branch = REL1_41
+
 [submodule "ShortUrl"]
 	path = ShortUrl
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ShortUrl
 	branch = REL1_41
+
 [submodule "UrlShortener"]
 	path = UrlShortener
 	url = https://git.qiuwen.net.cn/mirror/mediawiki-extensions-UrlShortener
 	branch = REL1_41
+
 [submodule "TemplateWizard"]
 	path = TemplateWizard
-	url = https://git.qiuwen.net.cn/WaitSpring/mediawiki-extensions-TemplateWizard
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-TemplateWizard
 	branch = REL1_41
+
 [submodule "MatomoNew"]
 	path = MatomoNew
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-MatomoNew
+
 [submodule "VisualEditor"]
 	path = VisualEditor
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-VisualEditor
 	branch = REL1_41
+
 [submodule "GrowthExperiments"]
 	path = GrowthExperiments
 	url = https://git.qiuwen.net.cn/YSARXIV/mediawiki-extensions-GrowthExperiments
 	branch = REL1_41
+
 [submodule "IsCompatible"]
 	path = IsCompatible
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-IsCompatible
+
 [submodule "ApprovedRevs"]
 	path = ApprovedRevs
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ApprovedRevs
 	branch = REL1_41
+
 [submodule "QiuwenMessages"]
 	path = QiuwenMessages
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-QiuwenMessages
+
 [submodule "Gadgets"]
 	path = Gadgets
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-Gadgets
 	branch = REL1_41
+
 [submodule "TemplateStylesExtender"]
 	path = TemplateStylesExtender
 	url = https://git.qiuwen.net.cn/YSARXIV/mediawiki-extensions-TemplateStylesExtender
+
 [submodule "GlobalUserrights"]
 	path = GlobalUserrights
 	url = https://git.qiuwen.net.cn/mirror/mediawiki-extensions-GlobalUserrights
 	branch = REL1_41
+
 [submodule "GlobalBlocking"]
 	path = GlobalBlocking
 	url = https://git.qiuwen.net.cn/mirror/mediawiki-extensions-GlobalBlocking
 	branch = REL1_41
+
 [submodule "GlobalPreferences"]
 	path = GlobalPreferences
 	url = https://git.qiuwen.net.cn/mirror/mediawiki-extensions-GlobalPreferences
 	branch = REL1_41
+
 [submodule "ArticleCreationWorkflow"]
 	path = ArticleCreationWorkflow
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ArticleCreationWorkflow
 	branch = REL1_41
+
 [submodule "Score"]
 	path = Score
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Score
 	branch = REL1_41
+
 [submodule "CentralAuth"]
 	path = CentralAuth
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-CentralAuth
 	branch = REL1_41
+
 [submodule "3D"]
 	path = 3D
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-3D
 	branch = REL1_41
+
 [submodule "SecureLinkFixer"]
 	path = SecureLinkFixer
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-SecureLinkFixer
 	branch = REL1_41
+
 [submodule "SocialProfile"]
 	path = SocialProfile
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-SocialProfile
 	branch = master
+
+[submodule "WikiEditor"]
+	path = WikiEditor
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-WikiEditor
+	branch = REL1_41

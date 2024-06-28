@@ -514,3 +514,7 @@
 	path = WikiEditor
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-WikiEditor
 	branch = REL1_42
+[submodule "MediaUploader"]
+	path = MediaUploader
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-MediaUploader
+	branch = REL1_42

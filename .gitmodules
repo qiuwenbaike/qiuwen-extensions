@@ -201,11 +201,6 @@
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Linter
 	branch = REL1_42
 
-[submodule "LocalisationUpdate"]
-	path = LocalisationUpdate
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-LocalisationUpdate
-	branch = REL1_42
-
 [submodule "Lockdown"]
 	path = Lockdown
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Lockdown

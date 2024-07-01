@@ -517,3 +517,7 @@
 	path = UploadsLink
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-UploadsLink
 	branch = REL1_41
+[submodule "GlobalUsage"]
+	path = GlobalUsage
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-GlobalUsage
+	branch = REL1_41

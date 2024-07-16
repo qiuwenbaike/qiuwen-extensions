@@ -521,3 +521,7 @@
 	path = GlobalUsage
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-GlobalUsage
 	branch = REL1_42
+[submodule "ContributionScores"]
+	path = ContributionScores
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ContributionScores
+	branch = master

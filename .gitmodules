@@ -525,3 +525,7 @@
 	path = ContributionScores
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ContributionScores
 	branch = master
+[submodule "SearchVue"]
+	path = SearchVue
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-SearchVue
+	branch = REL1_41

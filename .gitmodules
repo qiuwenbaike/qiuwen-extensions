@@ -407,7 +407,7 @@
 [submodule "Math"]
 	path = Math
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Math
-	branch = REL1_42
+	branch = REL1_41
 
 [submodule "ShortUrl"]
 	path = ShortUrl

@@ -529,3 +529,7 @@
 	path = SearchVue
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-SearchVue
 	branch = REL1_42
+[submodule "BulkBlock"]
+	path = BulkBlock
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-BulkBlock
+	branch = master

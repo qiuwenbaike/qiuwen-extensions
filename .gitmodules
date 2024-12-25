@@ -28,10 +28,6 @@
 	path = RNRSHook
 	url = https://git.qiuwen.net.cn/Qiuwen/mediawiki-extensions-RNRSHook
 
-[submodule "UploadWizard"]
-	path = UploadWizard
-	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-UploadWizard
-
 [submodule "ReplaceText"]
 	path = ReplaceText
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-ReplaceText

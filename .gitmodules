@@ -529,7 +529,3 @@
 	path = BulkBlock
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-BulkBlock
 	branch = master
-[submodule "UploadWizard"]
-	path = UploadWizard
-	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-UploadWizard
-	branch = master

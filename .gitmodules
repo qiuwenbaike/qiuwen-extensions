@@ -533,3 +533,7 @@
 	path = UploadWizard
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-UploadWizard-old/
 	branch = master
+[submodule "GlobalUserPage"]
+	path = GlobalUserPage
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-GlobalUserPage
+	branch = REL1_43

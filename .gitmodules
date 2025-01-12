@@ -6,7 +6,7 @@
 [submodule "CommonsMetadata"]
 	path = CommonsMetadata
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-CommonsMetadata
-	branch = REL1_42
+	branch = REL1_43
 
 [submodule "Matomo"]
 	path = Matomo
@@ -433,10 +433,6 @@
 	path = GrowthExperiments
 	url = https://git.qiuwen.net.cn/YSARXIV/mediawiki-extensions-GrowthExperiments
 	branch = REL1_43
-
-[submodule "IsCompatible"]
-	path = IsCompatible
-	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-IsCompatible
 
 [submodule "ApprovedRevs"]
 	path = ApprovedRevs

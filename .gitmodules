@@ -18,7 +18,7 @@
 
 [submodule "PinyinSort"]
 	path = PinyinSort
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-PinyinSort
+	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-PinyinSort
 
 [submodule "PluggableAuth"]
 	path = PluggableAuth

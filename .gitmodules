@@ -287,11 +287,6 @@
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Popups
 	branch = REL1_43
 
-[submodule "Renameuser"]
-	path = Renameuser
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Renameuser
-	branch = REL1_43
-
 [submodule "RelatedArticles"]
 	path = RelatedArticles
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-RelatedArticles

@@ -79,7 +79,6 @@ cd Poem; composer update --no-dev; cd ..; sleep 1;
 cd Popups; composer update --no-dev; cd ..; sleep 1;
 cd QiuwenMessages; composer update --no-dev; cd ..; sleep 1;
 cd RelatedArticles; composer update --no-dev; cd ..; sleep 1;
-cd Renameuser; composer update --no-dev; cd ..; sleep 1;
 cd ReplaceText; composer update --no-dev; cd ..; sleep 1;
 cd RevisionSlider; composer update --no-dev; cd ..; sleep 1;
 cd RNRSHook; composer update --no-dev; cd ..; sleep 1;

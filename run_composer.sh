@@ -34,6 +34,7 @@ cd Elastica; composer update --no-dev; cd ..; sleep 1;
 cd FileImporter; composer update --no-dev; cd ..; sleep 1;
 cd Gadgets; composer update --no-dev; cd ..; sleep 1;
 cd GlobalBlocking; composer update --no-dev; cd ..; sleep 1;
+cd GlobalCssJs; composer update --no-dev; cd ..; sleep 1;
 cd GlobalPreferences; composer update --no-dev; cd ..; sleep 1;
 cd GlobalUsage; composer update --no-dev; cd ..; sleep 1;
 cd GlobalUserPage; composer update --no-dev; cd ..; sleep 1;

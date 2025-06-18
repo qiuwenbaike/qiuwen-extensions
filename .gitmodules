@@ -532,3 +532,7 @@
 	path = GlobalCssJs
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-GlobalCssJs
 	branch = REL1_43
+[submodule "Chart"]
+	path = Chart
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Chart
+	branch = REL1_43

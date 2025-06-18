@@ -11,6 +11,7 @@ cd BetaFeatures; composer update --no-dev; cd ..; sleep 1;
 cd BulkBlock; composer update --no-dev; cd ..; sleep 1;
 cd CategoryTree; composer update --no-dev; cd ..; sleep 1;
 cd CentralAuth; composer update --no-dev; cd ..; sleep 1;
+cd Chart; composer update --no-dev; cd ..; sleep 1;
 cd CheckUser; composer update --no-dev; cd ..; sleep 1;
 cd CirrusSearch; composer update --no-dev; cd ..; sleep 1;
 cd Cite; composer update --no-dev; cd ..; sleep 1;

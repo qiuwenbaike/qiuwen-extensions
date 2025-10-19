@@ -534,5 +534,5 @@
 	branch = REL1_43
 [submodule "Chart"]
 	path = Chart
-	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-Chart
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Chart
 	branch = REL1_43

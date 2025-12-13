@@ -536,3 +536,6 @@
 	path = Chart
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Chart
 	branch = REL1_43
+[submodule "Thumbro"]
+	path = Thumbro
+	url = https://git.qiuwen.net.cn/mirror/mediawiki-extensions-Thumbro

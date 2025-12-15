@@ -100,6 +100,7 @@ cd TemplateStylesExtender; composer update --no-dev; cd ..; sleep 1;
 cd TemplateWizard; composer update --no-dev; cd ..; sleep 1;
 cd TextExtracts; composer update --no-dev; cd ..; sleep 1;
 cd Thanks; composer update --no-dev; cd ..; sleep 1;
+cd Thumbro; composer update --no-dev; cd ..; sleep 1;
 cd TimedMediaHandler; composer update --no-dev; cd ..; sleep 1;
 cd timeline; composer update --no-dev; cd ..; sleep 1;
 cd TitleBlacklist; composer update --no-dev; cd ..; sleep 1;

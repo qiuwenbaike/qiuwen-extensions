@@ -65,6 +65,7 @@ cd MediaSearch; composer update --no-dev; cd ..; sleep 1;
 cd MediaUploader; composer update --no-dev; cd ..; sleep 1;
 cd MsUpload; composer update --no-dev; cd ..; sleep 1;
 cd MultimediaViewer; composer update --no-dev; cd ..; sleep 1;
+cd MyVariables; composer update --no-dev; cd ..; sleep 1;
 cd NewSignupPage; composer update --no-dev; cd ..; sleep 1;
 cd NewUserMessage; composer update --no-dev; cd ..; sleep 1;
 cd Nuke; composer update --no-dev; cd ..; sleep 1;

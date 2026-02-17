@@ -445,7 +445,7 @@
 
 [submodule "TemplateStylesExtender"]
 	path = TemplateStylesExtender
-	url = https://git.qiuwen.net.cn/YSARXIV/mediawiki-extensions-TemplateStylesExtender
+	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-TemplateStylesExtender
 
 [submodule "GlobalUserrights"]
 	path = GlobalUserrights

@@ -539,3 +539,7 @@
 [submodule "MyVariables"]
 	path = MyVariables
 	url  =https://git.qiuwen.net.cn/Fork/mediawiki-extensions-MyVariables
+[submodule "OrphanedMediaPages"]
+	path = OrphanedMediaPages
+	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-OrphanedMediaPages
+	branch = master

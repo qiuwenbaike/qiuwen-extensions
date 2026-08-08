@@ -424,6 +424,11 @@
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-VisualEditor
 	branch = REL1_43
 
+[submodule "VisualEditor/lib/ve"]
+	path = VisualEditor/lib/ve
+	url = https://git.qiuwen.net.cn/Mirror/VisualEditor/
+	branch = master
+
 [submodule "GrowthExperiments"]
 	path = GrowthExperiments
 	url = https://git.qiuwen.net.cn/YSARXIV/mediawiki-extensions-GrowthExperiments

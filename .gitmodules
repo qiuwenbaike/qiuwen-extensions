@@ -400,11 +400,6 @@
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-Math
 	branch = REL1_43
 
-[submodule "ShortUrl"]
-	path = ShortUrl
-	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ShortUrl
-	branch = REL1_43
-
 [submodule "UrlShortener"]
 	path = UrlShortener
 	url = https://git.qiuwen.net.cn/mirror/mediawiki-extensions-UrlShortener

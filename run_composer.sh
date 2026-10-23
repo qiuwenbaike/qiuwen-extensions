@@ -90,7 +90,6 @@ cd Score; composer update --no-dev; cd ..; sleep 1;
 cd Scribunto; composer update --no-dev; cd ..; sleep 1;
 cd SearchVue; composer update --no-dev; cd ..; sleep 1;
 cd SecureLinkFixer; composer update --no-dev; cd ..; sleep 1;
-cd ShortUrl; composer update --no-dev; cd ..; sleep 1;
 cd SocialProfile; composer update --no-dev; cd ..; sleep 1;
 cd SpamBlacklist; composer update --no-dev; cd ..; sleep 1;
 cd SyntaxHighlight_GeSHi; composer update --no-dev; cd ..; sleep 1;

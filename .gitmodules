@@ -543,3 +543,7 @@
 	path = OrphanedMediaPages
 	url = https://git.qiuwen.net.cn/Fork/mediawiki-extensions-OrphanedMediaPages
 	branch = master
+[submodule "ReadingLists"]
+	path = ReadingLists
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-extensions-ReadingLists
+	branch = REL1_43
